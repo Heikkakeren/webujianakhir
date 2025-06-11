@@ -1,0 +1,117 @@
+/* Gaya tombol pink */
+.btn-pink {
+    background-color: #ff69b4;
+    color: white;
+    border: none;
+    transition: all 0.3s ease;
+}
+
+.btn-pink:hover {
+    background-color: #ff1493;
+    color: white;
+}
+
+.table-pink {
+    background-color: #ff69b4;
+    color: white;
+}
+
+.badge {
+    font-size: 1rem;
+}
+
+.admin-container {
+    background-color: #fff0f5;
+    border-radius: 15px;
+    padding: 30px;
+}
+
+/* Navbar Pink Lucu */
+.bg-pink {
+    background-color: #ff69b4 !important;
+}
+
+/* Font Comic Sans */
+body {
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    background-color: #fffbe6;
+    color: #333;
+}
+
+/* Tombol Lucu */
+.btn-pastel {
+    background-color: #ffb6c1;
+    color: white;
+    border: none;
+    transition: all 0.2s ease-in-out;
+}
+
+.btn-pastel:hover {
+    background-color: #ff69b4;
+    color: white;
+}
+
+/* Card Produk */
+.card-laptop {
+    border: 2px dashed #ffb6c1;
+    border-radius: 15px;
+    transition: transform 0.2s;
+}
+
+.card-laptop:hover {
+    transform: scale(1.02);
+}
+
+/* Tabel Lucu */
+.table-pink thead {
+    background-color: #ffb6c1;
+    color: white;
+}
+
+/* Badge Stok */
+.badge {
+    background-color: #ff69b4;
+    color: white;
+    font-size: 1rem;
+}
+
+.bg-pink {
+    background-color: #ff69b4 !important;
+}
+
+.card-pastel {
+    border: 1px solid #ffccdd;
+    border-radius: 15px;
+    margin-top: 20px;
+}
+
+.btn-pastel {
+    background-color: #ffb6c1;
+    color: white;
+    font-weight: bold;
+    padding: 10px 20px;
+    border: none;
+    transition: all 0.3s ease;
+}
+
+.btn-pastel:hover {
+    background-color: #ff69b4;
+    color: white;
+}
+
+.btn-pink-outline {
+    border: 2px solid #ff69b4;
+    color: #ff69b4;
+    background-color: transparent;
+    transition: all 0.3s ease;
+}
+
+.btn-pink-outline:hover {
+    background-color: #ff69b4;
+    color: white;
+}
+
+.form-control:focus {
+    border-color: #ffb6c1;
+    box-shadow: 0 0 0 0.2rem rgba(255, 105, 180, 0.25);
+}
